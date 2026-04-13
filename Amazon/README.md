@@ -17,9 +17,13 @@ This project is a full-stack Amazon clone built using the MERN stack. It replica
 
 ## 🌐 Live Demo
 
-👉 https://amazon-clone-eight-rho.vercel.app/
+👉 https://amazon-inky-eta.vercel.app/
 
 ---
+
+## 🔧 Backend API
+
+👉 https://amazon-backend-y2kg.onrender.com
 
 ## ✨ Features
 
